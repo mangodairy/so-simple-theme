@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: My First Site 
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Let us see the result 
 logo: site-logo.png
 url: https://mmistakes.github.io/so-simple-theme
 
